@@ -1,8 +1,5 @@
 <?php $titre="Accueil"; ?>
 @extends('layouts.app') 
-
-
-
 @section('contenu')
 
     <!-- Début de la section contenu -->
